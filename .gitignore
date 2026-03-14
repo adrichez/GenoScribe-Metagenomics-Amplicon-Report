@@ -7,6 +7,11 @@
 **/._*
 
 
+# Archivos grandes de análisis
+**/*.cloupe
+**/*.h5
+
+
 # Archivos temporales y de respaldo
 **/*.log
 **/*.tmp
